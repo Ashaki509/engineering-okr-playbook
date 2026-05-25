@@ -39,8 +39,7 @@ engineering-okr-playbook/
 ├── okr-tracker.xlsx
 ├── key-result-bank.xlsx
 ├── quarterly-planning-canvas.xlsx
-└── quick-planning-canvas.md     ← New: Rapid OKR planning template
-
+└── quick-planning-canvas.md
 
 ---
 
