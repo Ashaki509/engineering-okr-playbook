@@ -27,9 +27,9 @@ This playbook covers:
   - `weekly-checkin-format.md`
   - `qbr-facilitation-guide.md`
 - **templates/** — Ready-to-use files
-  - `okr-tracker.xlsx`
-  - `key-result-bank.xlsx`
-  - `quarterly-planning-canvas.xlsx`
+  - `okr-tracker.md`
+  - `key-result-bank.md`
+  - `quarterly-planning-canvas.md`
   - `quick-planning-canvas.md`
 
 ---
@@ -49,18 +49,18 @@ This playbook covers:
 
 ## 📅 Part 2 — Quarterly Planning Cadence
 
-**Quick Planning Canvas** → [`templates/quick-planning-canvas.md`](templates/quick-planning-canvas.md)
+**Quick Planning Canvas** → [templates/quick-planning-canvas.md](templates/quick-planning-canvas.md)
 
 ---
 
 ## 📊 Templates
 
-| Template | Purpose |
-|----------|--------|
-| [okr-tracker.xlsx](templates/okr-tracker.xlsx) | Full quarter tracker with RAG status and scoring |
-| [key-result-bank.xlsx](templates/key-result-bank.xlsx) | Library of proven Key Results |
-| [quarterly-planning-canvas.xlsx](templates/quarterly-planning-canvas.xlsx) | Detailed workshop worksheet |
-| [quick-planning-canvas.md](templates/quick-planning-canvas.md) | Fast 1-page planning template |
+| Template | Purpose | Link |
+|----------|--------|------|
+| [quick-planning-canvas.md](templates/quick-planning-canvas.md) | Fast 1-page planning template | [Open](templates/quick-planning-canvas.md) |
+| [key-result-bank.md](templates/key-result-bank.md) | Library of proven Key Results | [Open](templates/key-result-bank.md) |
+| [okr-tracker.md](templates/okr-tracker.md) | Full quarter tracker | [Open](templates/okr-tracker.md) |
+| [quarterly-planning-canvas.md](templates/quarterly-planning-canvas.md) | Detailed workshop worksheet | [Open](templates/quarterly-planning-canvas.md) |
 
 ---
 
