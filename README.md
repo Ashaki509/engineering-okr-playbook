@@ -1,92 +1,73 @@
 # 📐 Engineering OKR Playbook
 
-> Practical frameworks, templates, and cadences for engineering organizations that want OKRs to drive real delivery impact — not just reporting.
+> Practical frameworks, templates, and cadences for engineering organizations that want OKRs to drive real delivery impact — not just reporting theater.
 
-Most OKR implementations become reporting theater. Teams write vague objectives, track activity instead of outcomes, and forget about them after Q1. This playbook fixes that.
+Most OKR implementations become reporting exercises. This playbook helps you write better Key Results, run effective planning cadences, and align engineering work to business outcomes.
 
 ---
 
 ## 👋 Welcome
 
-This playbook gives you:
-
-1. **How to write Key Results** that actually measure delivery outcomes
-2. **A lightweight quarterly planning cadence** that connects engineering work to business impact
-3. **Alignment methods** so team OKRs support company strategy
-
----
-
-## 🎯 The Core Problem This Solves
-
-- Key Results measure activity instead of outcomes
-- OKRs live in documents nobody revisits
-- Team OKRs feel disconnected from company priorities
+This playbook covers:
+1. How to write **Key Results** that measure real outcomes
+2. A lightweight **quarterly planning cadence**
+3. Methods to **align team OKRs** to organizational strategy
 
 ---
 
 ## 📂 Repository Structure
-engineering-okr-playbook/
-├── README.md
-├── frameworks/
-│   ├── key-result-writing-guide.md
-│   ├── alignment-model.md
-│   └── anti-patterns.md
-├── cadence/
-│   ├── quarterly-planning-guide.md
-│   ├── weekly-checkin-format.md
-│   └── qbr-facilitation-guide.md
-└── templates/
-├── okr-tracker.xlsx
-├── key-result-bank.xlsx
-├── quarterly-planning-canvas.xlsx
-└── quick-planning-canvas.md
+
+- **README.md** — This file
+- **frameworks/** — Core concepts and guides
+  - `key-result-writing-guide.md`
+  - `alignment-model.md`
+  - `anti-patterns.md`
+- **cadence/** — Planning and review processes
+  - `quarterly-planning-guide.md`
+  - `weekly-checkin-format.md`
+  - `qbr-facilitation-guide.md`
+- **templates/** — Ready-to-use files
+  - `okr-tracker.xlsx`
+  - `key-result-bank.xlsx`
+  - `quarterly-planning-canvas.xlsx`
+  - `quick-planning-canvas.md`
 
 ---
 
 ## 🔑 Part 1 — Writing Key Results That Work
 
-### The 4-question test for a strong Key Result:
+### 4-Question Test for a Strong Key Result:
+
 | Question | Why It Matters |
 |----------|----------------|
-| Is it measurable with a number? | Removes subjectivity |
-| Does it measure an **outcome**, not a task? | Focuses on real impact |
-| Would missing it clearly signal a problem? | Creates accountability |
-| Can it be tracked without a meeting? | Grounded in data |
-
-### Three Types of Strong Engineering Key Results
-
-**1. Metric KRs** — Move a number from X to Y  
-**2. Milestone KRs** — Deliver a specific, verifiable outcome  
-**3. Threshold KRs** — Maintain a critical floor
-
-Full examples and anti-patterns available in `frameworks/key-result-writing-guide.md`
+| Measurable with a number? | Removes subjectivity |
+| Measures an **outcome**, not a task? | Focuses on impact |
+| Missing it signals a real problem? | Creates accountability |
+| Can be tracked without meetings? | Data-driven |
 
 ---
 
 ## 📅 Part 2 — Quarterly Planning Cadence
 
-Lightweight 6-week cycle designed for technical teams.
-
-**Quick Planning Canvas** (new):  
-→ [templates/quick-planning-canvas.md](templates/quick-planning-canvas.md)
+**Quick Planning Canvas** → [`templates/quick-planning-canvas.md`](templates/quick-planning-canvas.md)
 
 ---
 
 ## 📊 Templates
 
 | Template | Purpose |
-|---------|--------|
-| [okr-tracker.xlsx](templates/okr-tracker.xlsx) | Quarter tracker with RAG, confidence, and scoring |
-| [key-result-bank.xlsx](templates/key-result-bank.xlsx) | Library of proven Key Results by domain |
-| [quarterly-planning-canvas.xlsx](templates/quarterly-planning-canvas.xlsx) | Full workshop worksheet |
-| **[quick-planning-canvas.md](templates/quick-planning-canvas.md)** | Rapid 1-page OKR planning template |
+|----------|--------|
+| [okr-tracker.xlsx](templates/okr-tracker.xlsx) | Full quarter tracker with RAG status and scoring |
+| [key-result-bank.xlsx](templates/key-result-bank.xlsx) | Library of proven Key Results |
+| [quarterly-planning-canvas.xlsx](templates/quarterly-planning-canvas.xlsx) | Detailed workshop worksheet |
+| [quick-planning-canvas.md](templates/quick-planning-canvas.md) | Fast 1-page planning template |
 
 ---
 
 ## 🔗 Related Repos
 
-- **[TPM Toolkit](https://github.com/Ashaki509/tpm-toolkit)** — Program management templates & playbooks
-- **[PM/PgM First 90 Days AI Assistant](https://github.com/Ashaki509/pmpgaiassistant)** — AI prompts for new TPMs/PgMs
+- **[TPM Toolkit](https://github.com/Ashaki509/tpm-toolkit)** — Program management templates
+- **[PM/PgM First 90 Days AI Assistant](https://github.com/Ashaki509/pmpgaiassistant)** — AI prompts for TPMs/PgMs
 
 ---
 
@@ -100,4 +81,4 @@ Lightweight 6-week cycle designed for technical teams.
 
 ---
 
-Built for engineering leaders who want OKRs to actually move the needle.
+Built for engineering leaders who want OKRs that actually move the needle.
