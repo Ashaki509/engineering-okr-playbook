@@ -1,50 +1,27 @@
 # 📐 Engineering OKR Playbook
 
-**Built from real OKR programs across 300+ engineers at Fastly** — turning vague objectives into measurable delivery impact.
+> Practical frameworks, templates, and cadences for engineering organizations that want OKRs to drive real delivery impact — not just reporting.
+
+Most OKR implementations become reporting theater. Teams write vague objectives, track activity instead of outcomes, and forget about them after Q1. This playbook fixes that.
 
 ---
 
 ## 👋 Welcome
 
-Most engineering OKR programs become **reporting theater**. This playbook gives you the practical frameworks, templates, and cadences that actually work in high-velocity technical environments.
+This playbook gives you:
+
+1. **How to write Key Results** that actually measure delivery outcomes
+2. **A lightweight quarterly planning cadence** that connects engineering work to business impact
+3. **Alignment methods** so team OKRs support company strategy
 
 ---
 
-## ✨ Featured Highlights
+## 🎯 The Core Problem This Solves
 
-- **Outcome-focused Key Results** that measure real impact (not tasks)
-- **Proven quarterly planning cadence** used in platform engineering & security teams
-- **Jira / Jira Plans integration** guidance
-- Ready-to-use Excel templates
-
----
-
-## 📂 What's Inside
-
-| Section | Content |
-|--------|---------|
-| **frameworks/** | Key Result writing guide, alignment models, anti-patterns |
-| **cadence/** | Quarterly planning, weekly check-ins, QBR facilitation |
-| **templates/** | OKR tracker, Key Result bank, planning canvas |
+- Key Results measure activity instead of outcomes
+- OKRs live in documents nobody revisits
+- Team OKRs feel disconnected from company priorities
 
 ---
 
-## 🚀 Quick Start
-
-1. Download the [Quarterly Planning Canvas](templates/quarterly-planning-canvas.xlsx)
-2. Run a team workshop using the frameworks
-3. Load OKRs into Jira Plans
-4. Run weekly 15-min check-ins
-
----
-
-## 🔗 Cross-References
-
-- **[TPM Toolkit](https://github.com/Ashaki509/tpm-toolkit)** — Benefits Register, Program Charter, Lessons Learned
-- **[PM/PgM AI Assistant](https://github.com/Ashaki509/pmpgaiassistant)** — First 90 days prompts
-
----
-
-**Built by Ashaki Sorrell** — Staff Technical Program Manager at Fastly.
-
-Connect: [LinkedIn](https://linkedin.com/in/ashakisorrell) | [Email](mailto:ashaki509@gmail.com)
+## 📂 Repository Structure
