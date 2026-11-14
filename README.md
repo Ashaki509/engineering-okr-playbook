@@ -73,7 +73,7 @@ This playbook covers:
 
 ## 📬 Connect
 
-**Ashaki Sorrell** — Staff Technical Program Manager
+**Ashaki Sorrell** | Strategy & Operations Leader
 
 - 📧 ashaki509@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/ashakisorrell)
